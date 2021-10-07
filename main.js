@@ -162,3 +162,5 @@ function paddleInCanvas(){
     mouseY =0;
   }  
 }
+
+
